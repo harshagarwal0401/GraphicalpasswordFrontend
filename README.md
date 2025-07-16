@@ -14,7 +14,7 @@ the human brain is better at recognizing and remembering images than text.
 - **Machine learning:** Machine learning algorithms could be used to help users create more secure graphical passwords, by analyzing their preferences and past usage patterns.
 - **Multi-factor authentication:** Graphical passwords could be used as part of a multi-factor authentication system, along with other methods such as SMS codes or hardware tokens, to provide an extra layer of security.
 
-## Backenf repo : https://github.com/harshagarwal041/GraphicalPasswordBackEnd
+## Backend repo :https://github.com/harshagarwal0401/GraphicalpasswordBackend-main
 
 
 
